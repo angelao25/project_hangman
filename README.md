@@ -1,1 +1,1 @@
-# ruby-project_hangman
+# ruby_project_hangman
